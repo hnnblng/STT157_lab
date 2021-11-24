@@ -1,0 +1,5 @@
+# Methodology
+
+According to  [@battig1969category]
+
+`r stringi::stri_rand_lipsum(4)`
